@@ -3,4 +3,6 @@
 
 [Baterial artificial chromosome (BAC)](https://www.genome.gov/genetics-glossary/Bacterial-Artificial-Chromosome)  
 
-[T2T vs GRCh38](https://www.biostars.org/p/9560818/)
+[T2T vs GRCh38](https://www.biostars.org/p/9560818/)  
+
+[pangenome project](https://humanpangenome.org/publication/)
